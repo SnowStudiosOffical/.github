@@ -7,7 +7,7 @@
 **We make immersive VR games. Join us.**
 
 [![Discord](https://img.shields.io/badge/Discord-kiwivroffical-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Website](https://img.shields.io/badge/Website-snowstudios-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/SnowStudiosOffical)
+[![Website](https://img.shields.io/badge/Website-snowstudios-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snowstudiosoffical.github.io/SnowStudios-Website/)
 [![Meta Store](https://img.shields.io/badge/Meta_Store-Ape_Sprint-00a8e8?style=for-the-badge&logo=meta&logoColor=white)](https://www.meta.com)
 
 </div>
