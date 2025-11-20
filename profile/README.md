@@ -19,6 +19,7 @@
 Welcome to **SnowStudios** – where we push the boundaries of virtual reality gaming. Founded in 2024, we're a passionate team dedicated to creating immersive VR experiences that blur the line between virtual and reality.
 
 We aren't a typical company—as a flat organization without hierarchy and job titles, we believe in creative freedom, collaboration, and pushing technological boundaries. Every game we create is designed from the ground up for VR, ensuring the most authentic and immersive experiences possible.
+(we also post open source code all the time! check out our lego first league 25-26 code and GLUE library)
 
 ---
 
